@@ -12,7 +12,7 @@
 
 This is the dataset and code for manuscript
 
-**Foreground Multi-View Learning for Robust Parking Violation Detection**. 
+***Foreground Multi-View Learning for Robust Parking Violation Detection***. 
 
 (Pre-submitted to *Information Fusion*)
 
@@ -20,7 +20,7 @@ This is the dataset and code for manuscript
 
 🌟 *49k foreground instance segmentation annotations.* 🌟
 
-😊 *Three-side view information for each key vehicle.* 😊
+💡 *Three-side view information for each key vehicle.* 💡
 
 </div>
 
@@ -120,7 +120,7 @@ Any questions, feel free to contact me via email: `zeshenghu@njnu.edu.cn`
 
 ***We would like to express our sincere gratitude to the following individuals and groups for their invaluable assistance in this work:***
 
-🧡 **- the officers at Nanjing Transport for their valuable guidance and support throughout this work.**
+🧡 **- The officers at Nanjing Transport for their valuable guidance and support throughout this work.**
 
 🧡 **- Potential contributors, including reviewers and researchers, for their interest and input in this work.**
 
